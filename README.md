@@ -1,4 +1,4 @@
-# Hello there 👋, I'm Nafi! :atom:
+# Hello there 👋, I'm Nafi! :rocket:
 
 
 ## 💫 About Me:
