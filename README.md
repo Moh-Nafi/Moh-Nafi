@@ -1,6 +1,3 @@
-
-![hand](https://github.com/Moh-Nafi/Moh-Nafi/assets/133475571/38d87f78-d84f-4b4f-9adb-4cedead989f8)
-
 ![0a10af70-6cbf-46df-9071-0ff586a3b1d6](https://github.com/Moh-Nafi/Moh-Nafi/assets/133475571/15f291f0-f450-4fc4-9e67-c9444d1f070f)
 # Hello there 👋, I'm Nafi! :rocket:
 
