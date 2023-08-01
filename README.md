@@ -1,7 +1,6 @@
 
-<!-- &nbsp&nbsp&nbsp&nbsp-->  ![tech gif](https://github.com/Moh-Nafi/Moh-Nafi/assets/133475571/df754b70-f829-4433-874c-bdb73083946e)
 <p align="center">
-  <img src="(https://github.com/Moh-Nafi/Moh-Nafi/assets/133475571/df754b70-f829-4433-874c-bdb73083946e)" alt="Image" width="400" height="300">
+  <img src="(assets/tech gif.gif)" alt="Image" width="400" height="300">
 </p>
 
 # Hello there 👋, I'm Nafi! :rocket:
