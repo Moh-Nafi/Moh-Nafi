@@ -1,7 +1,5 @@
-![0a10af70-6cbf-46df-9071-0ff586a3b1d6](https://github.com/Moh-Nafi/Moh-Nafi/assets/133475571/15f291f0-f450-4fc4-9e67-c9444d1f070f)
+![200w](https://github.com/Moh-Nafi/Moh-Nafi/assets/133475571/569c6b17-1eed-4129-8b13-bcadb06312ec)
 # Hello there 👋, I'm Nafi! :rocket:
-
-
 
 ## 💫 About Me:
 🔭 
