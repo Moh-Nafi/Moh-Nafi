@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/Moh-Nafi/Moh-Nafi/blob/main/assets/tech%20gif.gif" alt="Image" width="700" height="200">
+  <img src="https://github.com/Moh-Nafi/Moh-Nafi/blob/main/assets/tech%20gif.gif" alt="Image" width="700" height="400">
 </p>
 
 # Hello there 👋, I'm Nafi! :rocket:
