@@ -1,5 +1,5 @@
 
-{&nbsp&nbsp&nbsp&nbsp} ![tech gif](https://github.com/Moh-Nafi/Moh-Nafi/assets/133475571/df754b70-f829-4433-874c-bdb73083946e)
+<&nbsp&nbsp&nbsp&nbsp>![tech gif](https://github.com/Moh-Nafi/Moh-Nafi/assets/133475571/df754b70-f829-4433-874c-bdb73083946e)
 
 # Hello there 👋, I'm Nafi! :rocket:
 
