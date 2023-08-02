@@ -3,7 +3,7 @@
   <img src="https://github.com/Moh-Nafi/Moh-Nafi/blob/main/assets/tech%20gif.gif" alt="Image" width="600" height="300">
 </p>
 
-# Hello there 👋, I'm Nafi! :rocket:
+# Hello there 👋, I'm Nafi!
 
 ## 💫 About Me:
 🔭 
